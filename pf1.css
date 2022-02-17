@@ -1,10 +1,15 @@
 body{
     font-family: 'Poiret One', cursive;
+    margin: 0%;
+}
+section{
+    height: 980px;
 }
 .half-width{
     font-size: 200%;
     width: 40%;
     float: left;
+    margin-top: 70px;
     margin-left: 5%;
     padding: 2%;
 }
@@ -16,4 +21,11 @@ body{
     margin-top: 20%;
     margin-left: 20%;
     text-align: justify;
+}
+.banner{
+    background-image: url("images/t-banner.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    
+    
 }
