@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poiret One', cursive;
+}
+.half-width{
+    font-size: 200%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    margin: 0%;
+    width: 100%;
+}
+.mrgn1{
+    margin-top: 20%;
+    margin-left: 20%;
+    text-align: justify;
+}
