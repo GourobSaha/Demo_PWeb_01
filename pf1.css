@@ -3,7 +3,7 @@ body{
     margin: 0%;
 }
 section{
-    height: 990px;
+    height: 1000px;
 }
 .half-width{
     font-size: 200%;
@@ -40,13 +40,14 @@ section{
 }
 .top-button{
     float: left;
+    margin-left: 5px;
 } 
 .fa:hover {
     opacity: 0.7;
 }  
 
 .fa-linkedin {
-    margin-left: 600px;
+    margin-left: 585px;
     background: orangered;
     color: white;
 } 
@@ -65,6 +66,42 @@ h1{
     font-size: 500%;
 }
 p{
-    color: orange;
-    font-size: medium;
+    color: rgb(255, 136, 0);
+    font-size: 60%;
+    text-align: justify;
 }
+.about{
+    background-image: url("images/t-banner4.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+.half-width1{
+    font-size: 200%;
+    width: 40%;
+    float: left;
+    margin-top: 8%;
+    padding: 2%;
+}
+.half-width1 img{
+    margin: 0%;
+    width: 100%;
+}
+.about-style{
+    margin-top: 15%;
+    margin-left: 8%;
+}
+h2{
+    color: orangered;
+}
+h5{
+    color: orangered;
+}
+.middle-button{
+    float: left;
+}
+.fa-github {
+    margin-top: 35px;
+    margin-left: 10px;
+    background: orangered;
+    color: white;
+} 
