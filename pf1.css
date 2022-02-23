@@ -4,6 +4,7 @@ body{
 }
 section{
     height: 1000px;
+    margin: 0%;
 }
 .half-width{
     font-size: 200%;
@@ -64,6 +65,7 @@ section{
 h1{
     color: orangered;
     font-size: 500%;
+    margin: 0%;
 }
 p{
     color: rgb(255, 136, 0);
@@ -83,7 +85,7 @@ p{
     padding: 2%;
 }
 .half-width1 img{
-    margin: 0%;
+    margin-left: 80px;
     width: 100%;
 }
 .about-style{
@@ -105,3 +107,28 @@ h5{
     background: orangered;
     color: white;
 } 
+.Exp{
+    background-image: url("images/t-banner5.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+.half-width2{
+   padding-top: 100px;
+   padding-left: 900px;
+  
+}
+.list{
+    color: rgb(255, 136, 0);
+    font-size: 150%;
+}
+.half-width3{
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-right: 750px;
+   
+ }
+ #footer{
+     padding-top: 30px;
+     text-align: center;
+     font-size: small;
+ }
